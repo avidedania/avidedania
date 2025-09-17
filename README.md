@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Avi Dedania</h1>
+<h3 align="center">An AI/ML & AI Automations Engineer from India 🤖🚀</h3>
 
 ###
 
@@ -47,8 +48,7 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-<h1 align="center">Hi 👋, I'm Avi Dedania</h1>
-<h3 align="center">An AI/ML & AI Automations Engineer from India 🤖🚀</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avidedania&label=Profile%20views&color=0e75b6&style=flat" alt="avidedania" /> </p>
 
